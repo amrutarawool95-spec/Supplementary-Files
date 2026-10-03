@@ -1,0 +1,26 @@
+held_out_topology,n,features,model,spearman
+EEHEE,29,Length only,Ridge,
+EEHEE,29,Length only,RandomForest,
+EEHEE,29,Antibody-style proxy,Ridge,-0.10295566502463052
+EEHEE,29,Antibody-style proxy,RandomForest,-0.04581280788177339
+EEHEE,29,Full sequence panel,Ridge,-0.07536945812807881
+EEHEE,29,Full sequence panel,RandomForest,0.0881773399014778
+EHEE,28,Length only,Ridge,
+EHEE,28,Length only,RandomForest,
+EHEE,28,Antibody-style proxy,Ridge,-0.2928297755883963
+EHEE,28,Antibody-style proxy,RandomForest,-0.29337712096332785
+EHEE,28,Full sequence panel,Ridge,-0.37055281882868085
+EHEE,28,Full sequence panel,RandomForest,0.039956212370005476
+HHH,19,Length only,Ridge,
+HHH,19,Length only,RandomForest,
+HHH,19,Antibody-style proxy,Ridge,-0.2771929824561403
+HHH,19,Antibody-style proxy,RandomForest,-0.05087719298245614
+HHH,19,Full sequence panel,Ridge,0.07017543859649124
+HHH,19,Full sequence panel,RandomForest,0.08421052631578947
+HEEH,14,Length only,Ridge,
+HEEH,14,Length only,RandomForest,
+HEEH,14,Antibody-style proxy,Ridge,-0.04615384615384615
+HEEH,14,Antibody-style proxy,RandomForest,-0.02417582417582418
+HEEH,14,Full sequence panel,Ridge,0.3494505494505495
+HEEH,14,Full sequence panel,RandomForest,0.3802197802197802
+  
