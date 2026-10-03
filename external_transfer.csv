@@ -1,0 +1,50 @@
+scaffold,endpoint,n,predictor,spearman,ci_lo,ci_hi
+affibody,Protease-assay score (TL),174,Antibody-style proxy / Ridge (predicted dG),0.021461886727982004,-0.12879588724823882,0.16274169657262752
+affibody,Protease-assay score (TL),174,Antibody-style proxy / RandomForest (predicted dG),-0.0635382556450924,-0.20783393791988988,0.09016531233536222
+affibody,Protease-assay score (TL),174,Full sequence panel / Ridge (predicted dG),-0.36642387311711605,-0.4902818256679115,-0.23821140196869148
+affibody,Protease-assay score (TL),174,Full sequence panel / RandomForest (predicted dG),0.07646573080099091,-0.06526804210236896,0.21683978178411112
+affibody,Protease-assay score (TL),174,GRAVY (raw descriptor),0.055727670550534625,-0.0897549897845743,0.20191715378057307
+affibody,Protease-assay score (TL),174,net_charge (raw descriptor),-0.1246669878630797,-0.2712239161841469,0.02832504126802536
+affibody,Split-GFP score,175,Antibody-style proxy / Ridge (predicted dG),-0.1768293775190327,-0.3137080393735769,-0.023863976176268085
+affibody,Split-GFP score,175,Antibody-style proxy / RandomForest (predicted dG),0.0014576802507836992,-0.14564314845967094,0.16204733082125822
+affibody,Split-GFP score,175,Full sequence panel / Ridge (predicted dG),-0.2727026421854008,-0.40613903559287395,-0.1310347975178222
+affibody,Split-GFP score,175,Full sequence panel / RandomForest (predicted dG),-0.10496193461710704,-0.25284930278519846,0.046956024687266194
+affibody,Split-GFP score,175,GRAVY (raw descriptor),-0.1828746595166007,-0.32634280532761173,-0.04288845419341581
+affibody,Split-GFP score,175,net_charge (raw descriptor),-0.17230148814094917,-0.316078982457221,-0.023942013950660958
+affibody,CD Tm,17,Antibody-style proxy / Ridge (predicted dG),0.3774509803921569,-0.15879124489572413,0.7824608786174038
+affibody,CD Tm,17,Antibody-style proxy / RandomForest (predicted dG),-0.29411764705882354,-0.6864759466814261,0.22279715487351504
+affibody,CD Tm,17,Full sequence panel / Ridge (predicted dG),-0.26960784313725494,-0.7069124200512596,0.2743721682383379
+affibody,CD Tm,17,Full sequence panel / RandomForest (predicted dG),0.49754901960784315,0.012468052505552038,0.8139620300575864
+affibody,CD Tm,17,GRAVY (raw descriptor),0.46993900405674355,-0.09297665299961964,0.7841329130059301
+affibody,CD Tm,17,net_charge (raw descriptor),0.3421214622200488,-0.20014981273408242,0.7456173963333299
+affibody,Dot-blot yield,84,Antibody-style proxy / Ridge (predicted dG),0.40587039167701866,0.21540193608246244,0.5704356319828727
+affibody,Dot-blot yield,84,Antibody-style proxy / RandomForest (predicted dG),-0.04403546455144086,-0.27335422630094525,0.18868433585810887
+affibody,Dot-blot yield,84,Full sequence panel / Ridge (predicted dG),0.16453158178814972,-0.0460028350941305,0.3675182403565441
+affibody,Dot-blot yield,84,Full sequence panel / RandomForest (predicted dG),0.16154491717852654,-0.05644120561318526,0.3627376273048951
+affibody,Dot-blot yield,84,GRAVY (raw descriptor),0.3367184028999411,0.13193954365245147,0.5287968051105912
+affibody,Dot-blot yield,84,net_charge (raw descriptor),0.09123088142023049,-0.12692301240610335,0.30303776039390995
+fibronectin,Protease-assay score (TL),176,Antibody-style proxy / Ridge (predicted dG),0.15451243671582654,-0.00016395370867278424,0.3065011297378608
+fibronectin,Protease-assay score (TL),176,Antibody-style proxy / RandomForest (predicted dG),0.12911856605617114,-0.01762335179009787,0.27482677820275275
+fibronectin,Protease-assay score (TL),176,Full sequence panel / Ridge (predicted dG),0.05590358793748624,-0.09415530616314104,0.2090723329831322
+fibronectin,Protease-assay score (TL),176,Full sequence panel / RandomForest (predicted dG),0.15599383667180278,0.01041027716060457,0.2945392948348123
+fibronectin,Protease-assay score (TL),176,GRAVY (raw descriptor),0.13508629238338785,-0.02620146742218518,0.2925673411657681
+fibronectin,Protease-assay score (TL),176,net_charge (raw descriptor),0.17001546489162792,0.02081782501463026,0.3233663666673856
+fibronectin,Split-GFP score,170,Antibody-style proxy / Ridge (predicted dG),-0.07972227819810579,-0.2335824106999987,0.08523671159057386
+fibronectin,Split-GFP score,170,Antibody-style proxy / RandomForest (predicted dG),-0.0240460329663597,-0.17936803748403335,0.12843443187360906
+fibronectin,Split-GFP score,170,Full sequence panel / Ridge (predicted dG),-0.0762220553123149,-0.23058265498904146,0.08743123150103432
+fibronectin,Split-GFP score,170,Full sequence panel / RandomForest (predicted dG),-0.02574605675343947,-0.17412118146021363,0.1403412869048514
+fibronectin,Split-GFP score,170,GRAVY (raw descriptor),-0.048824960842433124,-0.2117740606239001,0.11618153114577985
+fibronectin,Split-GFP score,170,net_charge (raw descriptor),-0.028188298252023358,-0.179990185091778,0.1300021154847925
+fibronectin,CD Tm,24,Antibody-style proxy / Ridge (predicted dG),0.09312449131780273,-0.39082567056239303,0.537751542434088
+fibronectin,CD Tm,24,Antibody-style proxy / RandomForest (predicted dG),0.18102704854301838,-0.23396912941221962,0.5572639886994092
+fibronectin,CD Tm,24,Full sequence panel / Ridge (predicted dG),0.24934735292103252,-0.2040691832631847,0.6126470321178933
+fibronectin,CD Tm,24,Full sequence panel / RandomForest (predicted dG),0.1740644697529023,-0.2620866847615201,0.5908859631611004
+fibronectin,CD Tm,24,GRAVY (raw descriptor),0.13707576993041057,-0.36621380915845675,0.5573680606100505
+fibronectin,CD Tm,24,net_charge (raw descriptor),0.16605008979697067,-0.26404918845411834,0.5610726039080227
+fibronectin,SDS-PAGE yield,16,Antibody-style proxy / Ridge (predicted dG),-0.14411764705882352,-0.6061486676332085,0.3853423363846775
+fibronectin,SDS-PAGE yield,16,Antibody-style proxy / RandomForest (predicted dG),-0.023529411764705882,-0.5441452471585296,0.5000558867362143
+fibronectin,SDS-PAGE yield,16,Full sequence panel / Ridge (predicted dG),-0.19117647058823528,-0.588062032876528,0.3323646299056134
+fibronectin,SDS-PAGE yield,16,Full sequence panel / RandomForest (predicted dG),-0.27941176470588236,-0.6955450426439235,0.24151314673452062
+fibronectin,SDS-PAGE yield,16,GRAVY (raw descriptor),-0.047058823529411764,-0.5695067264573991,0.4829241166621027
+fibronectin,SDS-PAGE yield,16,net_charge (raw descriptor),-0.02058823529411765,-0.5292660133529073,0.4934062968515738
+  
